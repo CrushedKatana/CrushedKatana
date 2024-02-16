@@ -2,7 +2,7 @@
 # Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana]
 
 <div align="center">
-      <img src="https://c.tenor.com/pG2qZ1BFTvEAAAAC/tenor.gif" align="center" width=70% height=70%> 
+      <img src="https://c.tenor.com/pG2qZ1BFTvEAAAAC/tenor.gif" align="center" width=80% height=80%> 
 </div>
 
 #  About Me:
