@@ -23,9 +23,9 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ### Stast:
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrushedKatana&show_icons=true&theme=merko)](https://github.com/Crushedkatana)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrushedKatana&layout=compact&theme=merko)](https://github.com/CrushedKatana)
 -
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crushedkatana&" alt="crushedkatana" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crushedkatana" alt="crushedkatana" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrushedKatana&layout=compact&theme=merko)](https://github.com/CrushedKatana)
+=
+src="https://github-readme-streak-stats.herokuapp.com/?user=crushedkatana&" alt="crushedkatana" 
+href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crushedkatana" alt="crushedkatana"
