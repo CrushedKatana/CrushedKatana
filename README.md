@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=CrushedKatana&icon=5&color=0)](https://visitcount.itsvg.in)
 #  About Me:
-# Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana]<br><br>## I'm a Informatics Engineering Student!!<br><br>- 🔭 Malang State Polytechnic student<br>- 🌱 I’m currently learning Java<br>- ⚡ I like to play R6, BattleBit, and BlueArchive
+# Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana]<br><br>## I'm a Informatics Engineering Student!!<br><br>- 🔭 Malang State Polytechnic student<br>- 🌱 I’m currently learning Java<br>- ⚡ I like to play R6, BattleBit, Lethal Company, and BlueArchive
 
 
 ## 🌐 Socials:
