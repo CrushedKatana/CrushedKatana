@@ -1,8 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=CrushedKatana&icon=5&color=0)](https://visitcount.itsvg.in)
 # Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana]
-<br>
+
 <div align="center">
-      <img src="https://c.tenor.com/pG2qZ1BFTvEAAAAC/tenor.gif"/> 
+      <img src="https://c.tenor.com/pG2qZ1BFTvEAAAAC/tenor.gif" align="center"/> 
 </div>
 
 #  About Me:
@@ -15,8 +15,9 @@ I'm a Informatics Engineering Student!!
 - ⚡ I like to play R6, BattleBit, Lethal Company, and BlueArchive
 </br>
 </br>
+</br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/490087814659178497) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crushedktn) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crushedkatana) 
