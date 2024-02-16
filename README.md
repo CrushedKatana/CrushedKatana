@@ -10,7 +10,7 @@
 <img src="https://c.tenor.com/HVBp38tgS7cAAAAC/tenor.gif" align="right"> 
 
 I'm a Informatics Engineering Student!!
-- 🔭 Malang State Polytechnic student
+- 🔭 Malang State Polytechnic Student
 - 🌱 I’m currently learning Java
 - ⚡ I like to play R6, BattleBit, Lethal Company, and BlueArchive
 </br>
