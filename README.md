@@ -39,7 +39,6 @@ I'm a Informatics Engineering Student!!
 
 </br>
 
-<img src="https://c.tenor.com/mmkRFoCWtNIAAAAC/tenor.gif" align="center" width=100% height=100%>
-
+![pre_sktch - 1627665047802748928](https://github.com/CrushedKatana/CrushedKatana/assets/142032988/8962738d-d125-45fd-a980-06173442cb5b)
 
 
