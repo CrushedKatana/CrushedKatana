@@ -6,11 +6,15 @@
 </div>
 
 #  About Me:
+
+<img src="https://c.tenor.com/HVBp38tgS7cAAAAC/tenor.gif" align="right"> 
+
 I'm a Informatics Engineering Student!!
 - 🔭 Malang State Polytechnic student
 - 🌱 I’m currently learning Java
 - ⚡ I like to play R6, BattleBit, Lethal Company, and BlueArchive
-
+</br>
+</br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/490087814659178497) 
