@@ -1,31 +1,19 @@
+[![](https://visitcount.itsvg.in/api?id=CrushedKatana&icon=5&color=0)](https://visitcount.itsvg.in)
+#  About Me:
+# Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana]<br><br>## I'm a Informatics Engineering Student!!<br><br>- 🔭 Malang State Polytechnic student<br>- 🌱 I’m currently learning Java<br>- ⚡ I like to play R6, BattleBit, and BlueArchive
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/crushedkatana) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crushedktn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crushedkatana) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Captain_Kitchen) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/crushedkatana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CrushedKatana) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@crushedkatana) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crushedkatana&label=Profile%20views&color=0e75b6&style=flat" alt="crushedkatana" /> </p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CrushedKatana&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CrushedKatana&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrushedKatana&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana]
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CrushedKatana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-## I'm a Informatics Engineering Student!!
 
-- 🔭 Malang State Polytechnic student
-- 🌱 I’m currently learning Java
-- ⚡ I like to play R6, BattleBit, and BlueArchive
-
-### Connect with me:
-<a href="https://twitter.com/crushedkatana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crushedkatana" height="30" width="40" /></a>
-<a href="https://fb.com/crushed katana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="crushed katana" height="30" width="40" /></a>
-<a href="https://instagram.com/crushedkatana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crushedkatana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/crushedkatana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crushedkatana" height="30" width="40" /></a>
-<a href="https://discord.gg/crushedkatana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="crushedkatana" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-### Stast:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrushedKatana&show_icons=true&theme=merko)](https://github.com/Crushedkatana)
--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrushedKatana&layout=compact&theme=merko)](https://github.com/CrushedKatana)
-=
-src="https://github-readme-streak-stats.herokuapp.com/?user=crushedkatana&" alt="crushedkatana" 
-href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crushedkatana" alt="crushedkatana"
