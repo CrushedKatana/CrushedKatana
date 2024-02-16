@@ -1,6 +1,11 @@
 [![](https://visitcount.itsvg.in/api?id=CrushedKatana&icon=5&color=0)](https://visitcount.itsvg.in)
-#  About Me:
 # Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana]
+<br>
+<div align="center">
+      <img src="https://c.tenor.com/pG2qZ1BFTvEAAAAC/tenor.gif"/> 
+</div>
+
+#  About Me:
 I'm a Informatics Engineering Student!!
 - 🔭 Malang State Polytechnic student
 - 🌱 I’m currently learning Java
