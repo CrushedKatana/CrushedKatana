@@ -2,7 +2,7 @@
 # Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana]
 
 <div align="center">
-      <img src="https://c.tenor.com/pG2qZ1BFTvEAAAAC/tenor.gif" align="center"/> 
+      <img src="https://c.tenor.com/pG2qZ1BFTvEAAAAC/tenor.gif" align="center" width=70% height=70%> 
 </div>
 
 #  About Me:
@@ -36,6 +36,10 @@ I'm a Informatics Engineering Student!!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CrushedKatana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</br>
+
+<img src="https://c.tenor.com/mmkRFoCWtNIAAAAC/tenor.gif" align="center" width=100% height=100%>
 
 
 
