@@ -2,7 +2,7 @@
 # Hi there, I'm Charel - aka [Charellino Kalingga Sadewo][CrushedKatana]
 
 <div align="center">
-      <img src="https://c.tenor.com/pG2qZ1BFTvEAAAAC/tenor.gif" align="center" width=80% height=80%> 
+      <img src="https://c.tenor.com/pG2qZ1BFTvEAAAAC/tenor.gif" align="center" width=70% height=70%> 
 </div>
 
 #  About Me:
@@ -27,7 +27,12 @@ I'm a Informatics Engineering Student!!
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@crushedkatana) 
 
 # 💻 The Language I am Learning / Want to Learn:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 # 📊 GitHub Stats:
 <div align="center">
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=CrushedKatana&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" />
