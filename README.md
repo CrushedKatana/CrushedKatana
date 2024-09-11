@@ -12,7 +12,7 @@
 I'm a Informatics Engineering Student!!
 - 🔭 State Polytechnic of Malang Student
 - 🌱 I’m currently learning Java
-- ⚡ I like to play R6, BattleBit, Lethal Company, and BlueArchive
+- ⚡ I like to play CS2, R6, BattleBit, and BlueArchive
 </br>
 </br>
 </br>
@@ -37,7 +37,8 @@ I'm a Informatics Engineering Student!!
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=CrushedKatana&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" />
 <img width=429 src="https://github-readme-streak-stats.herokuapp.com/?user=CrushedKatana&theme=blue-green&hide_border=true" />
 <img width 325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrushedKatana&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-
+<div/>
+      
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CrushedKatana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
